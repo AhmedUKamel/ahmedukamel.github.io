@@ -1,0 +1,490 @@
+{
+  "personal": {
+    "name": "Ahmed Kamel",
+    "title": "Senior Software Engineer",
+    "tagline": "Building scalable distributed systems and cloud infrastructure",
+    "about": "Senior Software Engineer specializing in microservices architecture, cloud platforms, and distributed systems. Experienced in leading technical transformations and building scalable SaaS solutions with modern technologies.",
+    "aboutExtended": "With a strong foundation in computer science and hands-on experience leading architectural migrations and building cloud hosting platforms, I'm dedicated to delivering high-quality, scalable solutions that drive business value.",
+    "email": "dev.ahmedkamel@gmail.com",
+    "github": "https://github.com/AhmedUKamel"
+  },
+  "stats": [
+    {
+      "number": "≈3",
+      "label": "Years Experience"
+    },
+    {
+      "number": "10+",
+      "label": "Projects Completed"
+    }
+  ],
+  "experience": [
+    {
+      "position": "Senior Software Engineer",
+      "company": "SkyGate Company",
+      "location": "Cairo, Egypt",
+      "starts": "2026-01-01",
+      "ends": null,
+      "current": true,
+      "type": "Full-time",
+      "description": "Leading the architectural transformation from monolithic to microservices, directing a team of junior developers and establishing engineering standards through code reviews, mentorship, and Agile delivery management.",
+      "achievements": [
+        "Spearheaded architectural transformation to distributed microservices framework",
+        "Architected high-availability patterns ensuring zero-downtime deployments",
+        "Directed team of junior developers while establishing engineering standards"
+      ],
+      "technologies": [
+        "TypeScript",
+        "Node.js",
+        "NestJS",
+        "Microservices",
+        "Docker",
+        "Kubernetes",
+        "PostgreSQL",
+        "Redis",
+        "Kafka",
+        "gRPC",
+        "GraphQL"
+      ],
+      "companyLogo": "images/skygate-logo.svg",
+      "companyWebsite": "https://skygatecloud.com"
+    },
+    {
+      "position": "Mid-level Software Engineer",
+      "company": "SkyGate Company",
+      "location": "Cairo, Egypt",
+      "starts": "2024-10-01",
+      "ends": "2025-12-31",
+      "current": false,
+      "type": "Full-time",
+      "description": "Architected and deployed a greenfield cloud hosting platform with comprehensive networking, storage management, and business logic for subscription lifecycles, billing, and resource allocation.",
+      "achievements": [
+        "Reduced VPS deployment time by 70% (down to 30s)",
+        "Reduced Kubernetes cluster deployment time by 70% (down to 100s)",
+        "Engineered comprehensive networking layer with DNS, firewall, and VPN",
+        "Developed unified storage management system for Block and Object storage",
+        "Architected secure multi-tier meeting platform with encrypted recording",
+        "Built multi-tenant corporate branding and governance engine"
+      ],
+      "technologies": [
+        "TypeScript",
+        "Node.js",
+        "NestJS",
+        "Docker",
+        "Kubernetes",
+        "KVM/QEMU",
+        "PostgreSQL",
+        "MongoDB",
+        "Elasticsearch",
+        "Redis",
+        "n8n",
+        "OAuth 2.0",
+        "SSL/TLS"
+      ],
+      "companyLogo": "images/skygate-logo.svg",
+      "companyWebsite": "https://skygatecloud.com"
+    },
+    {
+      "position": "Junior Software Engineer",
+      "company": "XTECH Company",
+      "location": "Cairo, Egypt",
+      "starts": "2024-01-01",
+      "ends": "2024-09-30",
+      "current": false,
+      "type": "Full-time",
+      "description": "Developed core backend infrastructure for multi-platform e-commerce and built scalable multi-tenant LMS from the ground up with granular 4-tier RBAC system.",
+      "achievements": [
+        "Developed multi-platform e-commerce backend with inventory tracking and order fulfillment",
+        "Built scalable multi-tenant Learning Management System (LMS) from scratch",
+        "Implemented granular 4-tier RBAC system (Student, Parent, Teacher, Employee)",
+        "Delivered specialized features including multilingual support and student registration"
+      ],
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "Spring Security",
+        "Spring Data JPA",
+        "Hibernate",
+        "MySQL",
+        "Docker",
+        "REST API"
+      ],
+      "companyLogo": "images/expotech-logo.svg",
+      "companyWebsite": "https://expotech.online"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "specialization": "Computer Science",
+      "institution": "Faculty of Computers and Artificial Intelligence, Beni Suef University",
+      "location": "Beni Suef, Egypt",
+      "starts": "2020-10-01",
+      "ends": "2024-07-31",
+      "current": false,
+      "grade": "Very Good",
+      "gpa": 3.2,
+      "description": "Comprehensive academic background in computer science with a strong focus on software engineering, backend development, and distributed systems. Coursework covered foundational and advanced topics essential for scalable system architecture.",
+      "institutionLogo": "images/fcai-logo.jpg",
+      "highlights": [
+        "Object-oriented Programming",
+        "Data Structures & Algorithms",
+        "Software Engineering & Testing",
+        "Database Systems",
+        "Computer Networks",
+        "Operating Systems",
+        "System Design",
+        "Machine Learning"
+      ],
+      "institutionWebsite": "https://fcai.bsu.edu.eg"
+    }
+  ],
+  "skills": {
+    "categories": [
+      {
+        "name": "Programming Languages",
+        "type": "progress",
+        "skills": [
+          { "name": "JavaScript", "level": 90 },
+          { "name": "TypeScript", "level": 90 },
+          { "name": "Java", "level": 80 },
+          { "name": "SQL", "level": 85 },
+          { "name": "Bash/Shell", "level": 70 }
+        ]
+      },
+      {
+        "name": "Node.js Ecosystem",
+        "type": "progress",
+        "skills": [
+          { "name": "NestJS", "level": 90 },
+          { "name": "Express.js", "level": 85 },
+          { "name": "Fastify", "level": 85 }
+        ]
+      },
+      {
+        "name": "Java & Spring",
+        "type": "progress",
+        "skills": [
+          { "name": "Spring Boot", "level": 80 },
+          { "name": "Spring Security", "level": 75 },
+          { "name": "Spring Data JPA", "level": 80 },
+          { "name": "Hibernate", "level": 75 }
+        ]
+      },
+      {
+        "name": "Databases & Streaming",
+        "type": "progress",
+        "skills": [
+          { "name": "MySQL", "level": 85 },
+          { "name": "PostgreSQL", "level": 85 },
+          { "name": "MongoDB", "level": 80 },
+          { "name": "Elasticsearch", "level": 75 },
+          { "name": "Redis", "level": 80 },
+          { "name": "Apache Kafka", "level": 70 }
+        ]
+      },
+      {
+        "name": "Cloud & Infrastructure",
+        "type": "progress",
+        "skills": [
+          { "name": "Docker", "level": 85 },
+          { "name": "Kubernetes", "level": 75 },
+          { "name": "Linux", "level": 80 },
+          { "name": "KVM/QEMU", "level": 70 }
+        ]
+      },
+      {
+        "name": "Architecture & Design",
+        "type": "badges",
+        "skills": [
+          { "name": "Microservices" },
+          { "name": "SaaS Multi-Tenancy" },
+          { "name": "Event-Driven Design (EDD)" },
+          { "name": "Domain-Driven Design (DDD)" },
+          { "name": "CQRS" },
+          { "name": "Hexagonal Architecture" },
+          { "name": "Clean Architecture" }
+        ]
+      },
+      {
+        "name": "Networking & Security",
+        "type": "badges",
+        "skills": [
+          { "name": "gRPC" },
+          { "name": "GraphQL" },
+          { "name": "RESTful APIs" },
+          { "name": "OAuth 2.0" },
+          { "name": "SSL/TLS" },
+          { "name": "DNS Management" },
+          { "name": "Firewall/VPN Configuration" },
+          { "name": "WebSockets" }
+        ]
+      },
+      {
+        "name": "Tools & Leadership",
+        "type": "badges",
+        "skills": [
+          { "name": "Git" },
+          { "name": "GitHub/GitLab" },
+          { "name": "Team Leadership" },
+          { "name": "Technical Mentoring" },
+          { "name": "Agile/Scrum" },
+          { "name": "Strategic Roadmap Planning" },
+          { "name": "CI/CD" },
+          { "name": "n8n Automation" }
+        ]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "Arrafni App",
+      "description": "A multi-tenant SaaS ecosystem with secure RBAC for administrators, business owners, and end-users. Engineered platform monetization with tiered subscriptions, automated billing, and high-performance geospatial search using proximity-based algorithms and GPS telemetry for real-time business discovery.",
+      "technologies": [
+        "TypeScript",
+        "NestJS",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "REST API",
+        "OAuth 2.0",
+        "Geospatial Search"
+      ],
+      "links": {
+        "github": null,
+        "live": null,
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.arrafni.arrafniapp",
+        "appStore": "https://apps.apple.com/eg/app/%D8%B9%D8%B1%D9%81%D9%86%D9%8A/id6736987513",
+        "facebook": "https://www.facebook.com/arrafni83"
+      },
+      "logo": "images/arrafni-logo.jpg",
+      "featured": true,
+      "types": ["backend", "api", "mobile", "saas"],
+      "company": {
+        "name": "Freelance",
+        "type": "Freelance"
+      },
+      "order": 800
+    },
+    {
+      "title": "Cloud Hosting Platform",
+      "description": "Greenfield cloud hosting platform with VPS and Kubernetes provisioning, comprehensive networking (DNS, firewall, VPN), unified Block/Object storage management, subscription lifecycle management, and automated billing system with audit logging.",
+      "technologies": [
+        "TypeScript",
+        "NestJS",
+        "Docker",
+        "Kubernetes",
+        "KVM/QEMU",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "n8n"
+      ],
+      "links": {
+        "github": null,
+        "live": null,
+        "googlePlay": null,
+        "appStore": null
+      },
+      "logo": "images/skygate-logo.svg",
+      "featured": true,
+      "types": ["backend", "cloud", "infrastructure", "platform"],
+      "company": {
+        "name": "SkyGate Company",
+        "type": "company"
+      },
+      "order": 850
+    },
+    {
+      "title": "Multi-tier Meeting Platform",
+      "description": "Secure meeting platform with tailored performance modes, robust session management, encrypted recording with granular sharing controls, and domain-based security filtration.",
+      "technologies": [
+        "TypeScript",
+        "NestJS",
+        "WebRTC",
+        "PostgreSQL",
+        "Redis",
+        "WebSockets",
+        "Encryption"
+      ],
+      "links": {
+        "github": null,
+        "live": null,
+        "googlePlay": null,
+        "appStore": null
+      },
+      "logo": "images/skygate-logo.svg",
+      "featured": true,
+      "types": ["backend", "real-time", "security"],
+      "company": {
+        "name": "SkyGate Company",
+        "type": "company"
+      },
+      "order": 860
+    },
+    {
+      "title": "E-Commerce Platform",
+      "description": "Multi-platform e-commerce backend with high-integrity modules for inventory tracking, sales processing, and real-time order fulfillment.",
+      "technologies": ["Java", "Spring Boot", "MySQL", "Docker", "REST API"],
+      "links": {
+        "github": null,
+        "live": null,
+        "googlePlay": null,
+        "appStore": null
+      },
+      "logo": null,
+      "featured": true,
+      "types": ["backend", "api", "e-commerce"],
+      "company": {
+        "name": "XTECH Company",
+        "type": "company"
+      },
+      "order": 880
+    },
+    {
+      "title": "Learning Management System (LMS)",
+      "description": "Scalable multi-tenant LMS built from the ground up with granular 4-tier RBAC system supporting Student, Parent, Teacher, and Employee roles, including multilingual support and student registration modules.",
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "Spring Security",
+        "MySQL",
+        "Docker",
+        "REST API",
+        "RBAC"
+      ],
+      "links": {
+        "github": null,
+        "live": null,
+        "googlePlay": null,
+        "appStore": null
+      },
+      "logo": null,
+      "featured": true,
+      "types": ["backend", "api", "education", "multi-tenant"],
+      "company": {
+        "name": "XTECH Company",
+        "type": "company"
+      },
+      "order": 890
+    }
+  ],
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Let's Work Together",
+    "description": "I'm always interested in new opportunities and exciting projects. Feel free to reach out if you'd like to collaborate or just want to say hello!",
+    "methods": [
+      {
+        "icon": "fas fa-envelope",
+        "label": "Email",
+        "value": "dev.ahmedkamel@gmail.com",
+        "link": "mailto:dev.ahmedkamel@gmail.com",
+        "type": "link"
+      },
+      {
+        "icon": "fab fa-github",
+        "label": "GitHub",
+        "value": "github.com/AhmedUKamel",
+        "link": "https://github.com/AhmedUKamel",
+        "type": "link"
+      },
+      {
+        "icon": "fab fa-linkedin",
+        "label": "LinkedIn",
+        "value": "linkedin.com/in/ahmedukamel",
+        "link": "https://linkedin.com/in/ahmedukamel",
+        "type": "link"
+      }
+    ]
+  },
+  "navigation": [
+    {
+      "name": "About",
+      "href": "#about"
+    },
+    {
+      "name": "Experience",
+      "href": "#experience"
+    },
+    {
+      "name": "Education",
+      "href": "#education"
+    },
+    {
+      "name": "Skills",
+      "href": "#skills"
+    },
+    {
+      "name": "Projects",
+      "href": "#projects"
+    },
+    {
+      "name": "Contact",
+      "href": "#contact"
+    },
+    {
+      "name": "Reach Me",
+      "href": "#reach-me"
+    }
+  ],
+  "reachMe": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ahmedukamel",
+      "badge": "https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077b5&color=gray"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@ahmedukamel",
+      "badge": "https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=Youtube&logoColor=white&&labelColor=CD201F&color=gray"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/ahmedukamel",
+      "badge": "https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=telegram&logoColor=white&labelColor=0088CC&color=gray"
+    },
+    {
+      "name": "Codeforces",
+      "url": "https://codeforces.com/profile/AhmedUKamel",
+      "badge": "https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=Codeforces&logoColor=white&&labelColor=yellow&color=gray"
+    },
+    {
+      "name": "LeetCode",
+      "url": "https://leetcode.com/ahmedukamel",
+      "badge": "https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=leetcode&logoColor=white&&labelColor=orange&color=gray"
+    },
+    {
+      "name": "HackerRank",
+      "url": "https://www.hackerrank.com/profile/ahmedukamel",
+      "badge": "https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=hackerrank&logoColor=white&labelColor=00B15D&color=gray"
+    },
+    {
+      "name": "DEV.to",
+      "url": "https://dev.to/ahmedukamel",
+      "badge": "https://img.shields.io/badge/@ahmedukamel-white?style=flat-square&logo=dev.to&logoColor=white&labelColor=black&color=gray"
+    }
+  ],
+  "seo": {
+    "title": "Ahmed Kamel - Senior Software Engineer",
+    "description": "Senior Software Engineer specializing in microservices architecture, cloud platforms, and distributed systems. Experienced in Node.js, Java, Kubernetes, and building scalable SaaS solutions.",
+    "keywords": [
+      "Senior Software Engineer",
+      "Node.js",
+      "Java",
+      "Microservices",
+      "Cloud Architecture",
+      "Kubernetes",
+      "NestJS",
+      "Spring Boot",
+      "PostgreSQL",
+      "Distributed Systems",
+      "SaaS"
+    ],
+    "author": "Ahmed Kamel"
+  },
+  "settings": {
+    "copyright": "2024-2026 Ahmed Kamel. All rights reserved.",
+    "version": "2.0.0",
+    "lastUpdated": "2026-02-05"
+  }
+}
